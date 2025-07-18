@@ -48,5 +48,4 @@ This collection keeps all essential knowledge just a few clicks away.
 ### 🔗 Let's Connect
 
 - GitHub: [@sudo-su-ayan-ali](https://github.com/sudo-su-ayan-ali)
-- LinkedIn: *(add your link here)*
 - OSCP Journey, Scripts, and Writeups coming soon...
